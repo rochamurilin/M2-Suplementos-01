@@ -1,0 +1,53 @@
+.container-cabecalho {
+    background-image: url(/assets/fundo\ de\ suplementos.png); /* Substitua pelo caminho da sua imagem */
+    background-size: cover; /* Ajusta a imagem para cobrir toda a área */
+    background-attachment: fixed; /* Mantém a imagem fixa durante o scroll */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    color: #fff; /* Cor do texto para contraste */
+    padding: 80px 20px; /* Ajuste de espaçamento interno */
+    text-align: center; /* Centraliza o texto */
+}
+
+.cabecalho-titulo {
+    color: white;
+    font-weight: bold;
+    font-size: 45px;
+    
+}
+
+.cabecalho-texto {
+    color: white;
+}
+
+p {
+    margin: 0;
+    padding-top: 1rem;
+}
+
+.cabecalho-sec2 {
+    padding-top: 3rem;
+}
+
+.cabecalho-link {
+    text-decoration: none;
+    color: white;
+    border: solid 2px;
+    border-radius: 5px;
+    padding: 0.6rem;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.cabecalho-titulo {
+    font-size: 32px;
+    margin-bottom: 20px; /* Espaço entre o título e o texto */
+}
+
+.cabecalho-link:hover {
+    font-weight: bold;
+    background-color: beige;
+    color: black;
+    border: solid 2px black;
+    border-radius: 5px;
+}

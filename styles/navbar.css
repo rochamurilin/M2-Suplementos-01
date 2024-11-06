@@ -1,0 +1,44 @@
+.container {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-right: 7rem;
+    padding-left: 7rem;
+}
+
+.container-navigation {
+    display: flex;
+    gap: 2rem;
+}
+
+.navbar__link {
+    color: white;
+    text-decoration: none;
+}
+
+.link-comprar {
+    font-weight: bold;
+    font-size: 20px;
+    border: 1px solid white;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.navbar-img {
+    padding-top: 0.5rem;
+    width: 100px;
+}
+
+.navbar__link:hover {
+    color: beige;
+    font-weight: bold;
+}
+
+
+
+.link-comprar:hover {
+    background-color: beige;
+    color: black;
+}

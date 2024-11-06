@@ -1,0 +1,14 @@
+.container-sobrenos {
+    display: flex;
+    flex-direction: row;
+    padding-left: 16.5rem;
+    padding-right: 12.5rem;
+}
+
+.sobrenos-imagem {
+    width: 450px;
+}
+
+.sobrenos-texto {
+    padding-right: 4.96rem;
+}
